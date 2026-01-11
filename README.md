@@ -1,2 +1,2 @@
 # Sales-funnel-Analysis
-Business question - SQL query - Insight it answers
+Advanced SQL-based sales funnel analysis using event-level data, window functions, and revenue impact modeling.
