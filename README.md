@@ -11,7 +11,6 @@ Initial assumptions suggested increasing marketing spend, but leadership wanted 
 - Quantify the revenue impact of improving funnel performance
 - Provide data-backed recommendations without increasing acquisition costs
 
----
 
 ## Funnel Logic
 
@@ -28,7 +27,6 @@ Each stage is represented as an event, and users are tracked across stages using
 
 Funnel sequencing is enforced using ordered logic inside SQL window functions.
 
----
 
 ## Key Insights
 
@@ -40,7 +38,7 @@ Funnel sequencing is enforced using ordered logic inside SQL window functions.
 **Business Interpretation:**
 Improving mid-funnel experience yields higher ROI than increasing top-of-funnel traffic.
 
----
+
 
 ## Revenue Impact (Before & After Scenario)
 
@@ -58,7 +56,6 @@ A simulation was conducted assuming a **20% improvement** in the Add to Cart →
 **Key takeaway:**
 Funnel optimization delivers **cost-free revenue growth** compared to paid acquisition strategies.
 
----
 
 ## Tools Used
 
