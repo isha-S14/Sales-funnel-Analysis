@@ -1,7 +1,7 @@
 This project analyzes end-to-end user behavior in an e-commerce platform using event-level clickstream data.
 The objective is to evaluate funnel efficiency,identify drop-off points, and understand conversion behavior over time.
 
-Unlike basic funnel analysis, this project incorporates:
+### Unlike basic funnel analysis, this project incorporates: ####
 
 Session-level sequencing
 
@@ -13,9 +13,9 @@ Multi-touch attribution modeling
 
 The analysis reflects real-world product, growth, and marketing analytics use cases.
 
-Business Objectives
+# Business Objectives #
 
-The project was designed to answer the following business questions:
+### The project was designed to answer the following business questions: ###
 
 How efficient is the e-commerce funnel?
 
@@ -31,13 +31,13 @@ How long do users take to convert?
 
 Which user interactions contribute most to conversions?
 
-Dataset
+# Dataset #
 
 Source: Kaggle – E-Commerce Behavior Data from Multi-Category Store
 Data Type: Event-level behavioral data
 Granularity: One row per user action
 
-Key Attributes
+# Key Attributes #
 
 User actions (view, cart, purchase)
 
@@ -49,8 +49,8 @@ Product category and brand information
 
 Pricing data
 
-🔍 Analysis Scope & Key Insights
-1️⃣ Funnel Efficiency Measurement
+# Analysis Scope & Key Insights #
+## Funnel Efficiency Measurement ##
 What was analyzed
 
 Percentage of users progressing from one funnel stage to the next
@@ -63,7 +63,7 @@ A significant drop-off occurs early in the funnel, indicating low intent or fric
 
 Improving early-stage engagement can have a large downstream impact on revenue
 
-2️⃣ Funnel Drop-Off Analysis
+## Funnel Drop-Off Analysis ##
 What was analyzed
 
 Identification of the largest user drop-off points between funnel stages
@@ -80,7 +80,7 @@ Pricing transparency
 
 Trust signals (reviews, delivery info)
 
-3️⃣ Session-Level Funnel Analysis
+## Session-Level Funnel Analysis ##
 What was analyzed
 
 Whether users complete funnel stages within the same session
@@ -93,7 +93,7 @@ Session-level funnels provide a more realistic view of user intent
 
 Many users explore but delay purchasing, indicating multi-session decision journeys
 
-4️⃣ Funnel Segmentation by Category & Brand
+## Funnel Segmentation by Category & Brand ##
 What was analyzed
 
 Funnel conversion rates segmented by:
@@ -110,7 +110,7 @@ Certain brands show high intent with lower drop-off
 
 Enables category-specific and brand-specific optimization strategies
 
-5️⃣ Cart Abandonment Analysis
+## Cart Abandonment Analysis ##
 What was analyzed
 
 Identification of sessions where carts were abandoned
@@ -135,7 +135,7 @@ Enables precise timing for cart reminder emails
 
 Supports targeted discount strategies
 
-6️⃣ Time-to-Conversion Metrics
+## Time-to-Conversion Metrics ##
 What was analyzed
 
 Time taken from first interaction to purchase
@@ -158,7 +158,7 @@ Helps define retargeting windows
 
 Improves attribution accuracy
 
-7️⃣ Multi-Touch Attribution Modeling
+## Multi-Touch Attribution Modeling ##
 What was analyzed
 
 Contribution of different user interactions to conversions using:
