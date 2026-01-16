@@ -31,7 +31,7 @@ How long do users take to convert?
 
 Which user interactions contribute most to conversions?
 
-🗂 Dataset
+Dataset
 
 Source: Kaggle – E-Commerce Behavior Data from Multi-Category Store
 Data Type: Event-level behavioral data
